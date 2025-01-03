@@ -2,6 +2,8 @@
 
 - ⚙️ Tools: Cisco Packet Tracer
 
+![Project View](bgp-1.png)
+
 ## First Router Configuration
 
 ```bash script
