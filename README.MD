@@ -6,7 +6,7 @@
 
 ## First Router Configuration
 
-```bash script
+```
 Router>enable
 Router#
 Router#configure terminal
@@ -52,7 +52,7 @@ Router(config)#
 
 ## Second Router Configuration
 
-```bash script
+```
 Press RETURN to get started!
 
 
@@ -133,7 +133,7 @@ Router#
 
 ## Third Router Configuration
 
-```bash script
+```
 Router>enable
 Router#
 Router#configure terminal
